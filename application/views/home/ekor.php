@@ -79,11 +79,9 @@
 
 			  var placeholder = $('#piechart-placeholder').css({'width':'90%' , 'min-height':'150px'});
 			  var data = [
-			  { label: "social networks",  data: 38.7, color: "#68BC31"},
-			  { label: "search engines",  data: 24.5, color: "#2091CF"},
-			  { label: "ad campaigns",  data: 8.2, color: "#AF4E96"},
-			  { label: "direct traffic",  data: 18.6, color: "#DA5430"},
-			  { label: "other",  data: 10, color: "#FEE074"}
+			  { label: "Jumlah Siswa",  data: 80, color: "#68BC31"},
+			  { label: "Jumlah kelas",  data: 15, color: "#2091CF"},
+			  { label: "Jumlah kelamin",  data: 5, color: "#AF4E96"},
 			  ]
 			  function drawPieChart(placeholder, data, position) {
 			  	$.plot(placeholder, data, {
