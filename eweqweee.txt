@@ -1,0 +1,279 @@
+Updatecheck<|||>3<|||>1
+DoUsageStatistics<|||>3<|||>1
+UpdatecheckLastrun<|||>1<|||>2016-11-12 21:42:10
+LastUsageStatisticCall<|||>1<|||>2016-11-06 19:50:03
+ColWidths_connform.ListSessions<|||>1<|||>163,50,50,50,50,50,53
+ColsVisible_connform.ListSessions<|||>1<|||>0
+ColPositions_connform.ListSessions<|||>1<|||>0,1,2,3,4,5,6
+ColSort_connform.ListSessions<|||>1<|||>0,0
+CoolBand0Index<|||>3<|||>0
+CoolBand0Break<|||>3<|||>1
+CoolBand0Width<|||>3<|||>1360
+CoolBand1Index<|||>3<|||>1
+CoolBand1Break<|||>3<|||>1
+CoolBand1Width<|||>3<|||>1360
+MainWinOnMonitor<|||>3<|||>0
+ColWidths_MainForm.ListDatabases<|||>1<|||>150,80,50,50,50,50,50,50,50,50,120
+ColsVisible_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColPositions_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColSort_MainForm.ListDatabases<|||>1<|||>0,0
+ColWidths_MainForm.ListVariables<|||>1<|||>160,200,275
+ColsVisible_MainForm.ListVariables<|||>1<|||>0,1,2
+ColPositions_MainForm.ListVariables<|||>1<|||>0,1,2
+ColSort_MainForm.ListVariables<|||>1<|||>0,0
+ColWidths_MainForm.ListStatus<|||>1<|||>160,275,100,100
+ColsVisible_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColPositions_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColSort_MainForm.ListStatus<|||>1<|||>0,0
+ColWidths_MainForm.ListProcesses<|||>1<|||>70,80,80,80,80,50,50,145
+ColsVisible_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColPositions_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColSort_MainForm.ListProcesses<|||>1<|||>0,1
+ColWidths_MainForm.ListCommandStats<|||>1<|||>120,100,100,100,215
+ColsVisible_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColPositions_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColSort_MainForm.ListCommandStats<|||>1<|||>1,1
+ColWidths_MainForm.ListTables<|||>1<|||>120,70,70,120,120,70,100,50,70,70,70,70,70,90,120,70,70,70,50
+ColsVisible_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,18
+ColPositions_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ColSort_MainForm.ListTables<|||>1<|||>0,0
+LastSessions<|||>1<|||>Unnamed-1
+LastActiveSession<|||>1<|||>Unnamed-1
+MemoEditorWidth<|||>3<|||>132
+MemoEditorWrap<|||>3<|||>1
+ExportSQL_Filenames<|||>1<|||>C:\xampp\htdocs\newAdminCRUD\dfdsfsfdf.sql<{{{><}}}>C:\xampp\htdocs\newAdminCRUD\new_admin_CRUD.sql<{{{><}}}>E:\barisan para tugas\backend\sekolah1.sql<{{{><}}}>E:\barisan para tugas\backend\'sekolah.sql<{{{><}}}>E:\barisan para tugas\cendana.sql<{{{><}}}>C:\Users\user\Documents\paijo.sql<{{{><}}}>EKSPORT<{{{><}}}>
+ColWidths_frmTableEditor.listColumns<|||>1<|||>38,100,156,90,60,65,50,119,130,140,100,100
+ColsVisible_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColPositions_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColSort_frmTableEditor.listColumns<|||>1<|||>-1,0
+ColWidths_frmTableEditor.treeIndexes<|||>1<|||>341,100,80
+ColsVisible_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColPositions_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColSort_frmTableEditor.treeIndexes<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listForeignKeys<|||>1<|||>99,80,100,80,80,80
+ColsVisible_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColPositions_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColSort_frmTableEditor.listForeignKeys<|||>1<|||>-1,0
+MainWinMaximized<|||>3<|||>1
+SQL Attr Comment Foreground<|||>3<|||>8421504
+SQL Attr Comment Background<|||>3<|||>536870911
+SQL Attr Comment Style<|||>3<|||>2
+SQL Attr ConditionalComment Foreground<|||>3<|||>8421504
+SQL Attr ConditionalComment Background<|||>3<|||>536870911
+SQL Attr ConditionalComment Style<|||>3<|||>2
+SQL Attr DataType Foreground<|||>3<|||>128
+SQL Attr DataType Background<|||>3<|||>536870911
+SQL Attr DataType Style<|||>3<|||>1
+SQL Attr DefaultPackages Foreground<|||>3<|||>536870911
+SQL Attr DefaultPackages Background<|||>3<|||>536870911
+SQL Attr DefaultPackages Style<|||>3<|||>1
+SQL Attr DelimitedIdentifier Foreground<|||>3<|||>32896
+SQL Attr DelimitedIdentifier Background<|||>3<|||>536870911
+SQL Attr DelimitedIdentifier Style<|||>3<|||>0
+SQL Attr Exception Foreground<|||>3<|||>536870911
+SQL Attr Exception Background<|||>3<|||>536870911
+SQL Attr Exception Style<|||>3<|||>2
+SQL Attr Function Foreground<|||>3<|||>8388608
+SQL Attr Function Background<|||>3<|||>536870911
+SQL Attr Function Style<|||>3<|||>1
+SQL Attr Identifier Foreground<|||>3<|||>32896
+SQL Attr Identifier Background<|||>3<|||>536870911
+SQL Attr Identifier Style<|||>3<|||>0
+SQL Attr Number Foreground<|||>3<|||>8388736
+SQL Attr Number Background<|||>3<|||>536870911
+SQL Attr Number Style<|||>3<|||>0
+SQL Attr PLSQL-ReservedWord Foreground<|||>3<|||>536870911
+SQL Attr PLSQL-ReservedWord Background<|||>3<|||>536870911
+SQL Attr PLSQL-ReservedWord Style<|||>3<|||>1
+SQL Attr ReservedWord Foreground<|||>3<|||>16711680
+SQL Attr ReservedWord Background<|||>3<|||>536870911
+SQL Attr ReservedWord Style<|||>3<|||>1
+SQL Attr Space Foreground<|||>3<|||>536870911
+SQL Attr Space Background<|||>3<|||>536870911
+SQL Attr Space Style<|||>3<|||>0
+SQL Attr SQLPlus-Command Foreground<|||>3<|||>536870911
+SQL Attr SQLPlus-Command Background<|||>3<|||>536870911
+SQL Attr SQLPlus-Command Style<|||>3<|||>1
+SQL Attr String Foreground<|||>3<|||>32768
+SQL Attr String Background<|||>3<|||>536870911
+SQL Attr String Style<|||>3<|||>0
+SQL Attr Symbol Foreground<|||>3<|||>16711680
+SQL Attr Symbol Background<|||>3<|||>536870911
+SQL Attr Symbol Style<|||>3<|||>0
+SQL Attr TableName Foreground<|||>3<|||>16711935
+SQL Attr TableName Background<|||>3<|||>536870911
+SQL Attr TableName Style<|||>3<|||>0
+SQL Attr Variable Foreground<|||>3<|||>8388736
+SQL Attr Variable Background<|||>3<|||>536870911
+SQL Attr Variable Style<|||>3<|||>0
+DataFontSize<|||>3<|||>8
+FieldEditor_Set<|||>3<|||>1
+LineBreakStyle<|||>3<|||>1
+FontSize<|||>3<|||>12
+FindDialogSearchHistory<|||>1<|||>10185086<{{{><}}}>0<{{{><}}}>direktur 5<{{{><}}}>JDSDSSSSS<{{{><}}}>
+querymemoheight<|||>3<|||>321
+dbtreewidth<|||>3<|||>349
+sqloutheight<|||>3<|||>30
+ExportSQL_CreateDatabases<|||>3<|||>1
+ExportSQL_CreateTables<|||>3<|||>1
+ExportSQL_DataHow<|||>3<|||>1
+MainWinLeft<|||>3<|||>683
+MainWinTop<|||>3<|||>0
+MainWinWidth<|||>3<|||>683
+MainWinHeight<|||>3<|||>728
+ColWidths_frmRoutineEditor.listParameters<|||>1<|||>10,338,90,70
+ColsVisible_frmRoutineEditor.listParameters<|||>1<|||>0,1,2,3
+ColPositions_frmRoutineEditor.listParameters<|||>1<|||>0,1,2,3
+ColSort_frmRoutineEditor.listParameters<|||>1<|||>-1,0
+SQLFile0<|||>1<|||>C:\xampp\htdocs\newAdminCRUD\dfdsfsfdf.sql
+SQLFile1<|||>1<|||>E:\belajarCI\admin_ci\adminCRUD\sql.sql
+SQLFile2<|||>1<|||>E:\belajarCI\CI_belajar_pribadi\Panduan Buku\Final Project\ci.sql
+SQLFile3<|||>1<|||>E:\belajarCI\CI_belajar_pribadi\cendana-ci\sql.sql
+SQLFile4<|||>1<|||>E:\belajarCI\bukukas_codeigniter-master\bukukas.sql
+Servers\Unnamed\SessionCreated<|||>1<|||>2016-10-06 10:13:13
+Servers\Unnamed\Host<|||>1<|||>127.0.0.1
+Servers\Unnamed\WindowsAuth<|||>3<|||>0
+Servers\Unnamed\User<|||>1<|||>root
+Servers\Unnamed\Password<|||>1<|||>5
+Servers\Unnamed\LoginPrompt<|||>3<|||>0
+Servers\Unnamed\Port<|||>1<|||>3306
+Servers\Unnamed\NetType<|||>3<|||>0
+Servers\Unnamed\Compressed<|||>3<|||>0
+Servers\Unnamed\LocalTimeZone<|||>3<|||>0
+Servers\Unnamed\QueryTimeout<|||>3<|||>0
+Servers\Unnamed\FullTableStatus<|||>3<|||>1
+Servers\Unnamed\Databases<|||>1<|||>
+Servers\Unnamed\Comment<|||>1<|||>
+Servers\Unnamed\StartupScriptFilename<|||>1<|||>
+Servers\Unnamed\SSHtunnelHost<|||>1<|||>
+Servers\Unnamed\SSHtunnelHostPort<|||>3<|||>0
+Servers\Unnamed\SSHtunnelUser<|||>1<|||>
+Servers\Unnamed\SSHtunnelPassword<|||>1<|||>6
+Servers\Unnamed\SSHtunnelTimeout<|||>3<|||>4
+Servers\Unnamed\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Unnamed\SSHtunnelPort<|||>3<|||>3307
+Servers\Unnamed\SSL_Active<|||>3<|||>0
+Servers\Unnamed\SSL_Key<|||>1<|||>
+Servers\Unnamed\SSL_Cert<|||>1<|||>
+Servers\Unnamed\SSL_CA<|||>1<|||>
+Servers\Unnamed\SSL_Cipher<|||>1<|||>
+Servers\Unnamed\ServerVersionFull<|||>1<|||>5.5.27 - MySQL Community Server (GPL)
+Servers\Unnamed\ConnectCount<|||>3<|||>3
+Servers\Unnamed\ServerVersion<|||>3<|||>50527
+Servers\Unnamed\LastConnect<|||>1<|||>2016-10-08 07:53:39
+Servers\Unnamed\lastUsedDB<|||>1<|||>cendana
+Servers\Unnamed\RefusedCount<|||>3<|||>2
+Servers\Unnamed\QueryHistory\3<|||>1<|||>2016-10-07 13:25:54|cendana|0|select nama from pegawai
+Servers\Unnamed\QueryHistory\2<|||>1<|||>2016-10-07 13:26:03|cendana|0|select id,nama from pegawai
+Servers\Unnamed\QueryHistory\1<|||>1<|||>2016-10-07 13:28:03|cendana|0|select * from pegawai where id='10'
+Servers\Unnamed\QueryHistory\6<|||>1<|||>2016-10-07 13:28:13|cendana|16|select * from pegawai where id=10
+Servers\Unnamed\QueryHistory\7<|||>1<|||>2016-10-07 13:28:44|cendana|0|select * from pegawai where id=10 and id=5
+Servers\Unnamed\QueryHistory\8<|||>1<|||>2016-10-07 13:28:49|cendana|0|select * from pegawai where id=10 or id=5
+Servers\Unnamed\QueryHistory\9<|||>1<|||>2016-10-07 13:29:16|cendana|0|select * from pegawai where id=10 or id=5 or id=3
+Servers\Unnamed\QueryHistory\10<|||>1<|||>2016-10-07 13:29:40|cendana|16|select * from pegawai, posisi
+Servers\Unnamed\QueryHistory\4<|||>1<|||>2016-10-07 13:30:50|cendana|0|select pegawai.nama, posisi.nama <{{{><}}}>from pegawai, posisi
+Servers\Unnamed\QueryHistory\11<|||>1<|||>2016-10-07 13:31:57|cendana|0|select pegawai.nama, posisi.nama <{{{><}}}>from pegawai, posisi<{{{><}}}>where pegawai.id_posisi = posisi.id
+Servers\Unnamed\QueryHistory\13<|||>1<|||>2016-10-07 13:33:25|cendana|16|select pegawai.nama, posisi.nama <{{{><}}}>from pegawai, posisi<{{{><}}}>where pegawai.id_posisi = posisi.id<{{{><}}}>and pegawai.id_posisi = 1
+Servers\Unnamed\QueryHistory\14<|||>1<|||>2016-10-07 13:46:31|cendana|15|select count(*) from pegawai
+Servers\Unnamed\QueryHistory\15<|||>1<|||>2016-10-07 13:47:26|cendana|0|select count(*) as jumlah from pegawai
+Servers\Unnamed\QueryHistory\16<|||>1<|||>2016-10-07 13:49:23|cendana|0|select pegawai.nama, posisi.nama <{{{><}}}>from pegawai, posisi<{{{><}}}>where pegawai.id_posisi = posisi.id<{{{><}}}>and pegawai.id_posisi = 2
+Servers\Unnamed\QueryHistory\17<|||>1<|||>2016-10-07 13:50:08|cendana|0|select count(pegawai.nama), posisi.nama<{{{><}}}>from pegawai, posisi<{{{><}}}>where pegawai.id_posisi = posisi.id
+Servers\Unnamed\QueryHistory\18<|||>1<|||>2016-10-07 13:57:38|cendana|0|select count(pegawai.nama), posisi.nama<{{{><}}}>from pegawai, posisi<{{{><}}}>where pegawai.id_posisi = posisi.id<{{{><}}}>and pegawai.id_posisi = 2
+Servers\Unnamed\QueryHistory\12<|||>1<|||>2016-10-07 13:58:51|cendana|0|select pegawai.nama, posisi.nama<{{{><}}}>from pegawai, posisi<{{{><}}}>where pegawai.id_posisi = posisi.id<{{{><}}}>and pegawai.id_posisi = 2
+Servers\Unnamed\QueryHistory\20<|||>1<|||>2016-10-07 14:01:34|cendana|0|select count(pegawai.nama) as jumlah, posisi.nama<{{{><}}}>from pegawai, posisi<{{{><}}}>where pegawai.id_posisi = posisi.id<{{{><}}}>and pegawai.id_posisi = 2
+Servers\Unnamed\QueryHistory\19<|||>1<|||>2016-10-07 14:05:52|cendana|16|select pegawai .*,posisi.nama as posisi from pegawai,posisi where pegawai.id_posisi=posisi.id;
+Servers\Unnamed\QueryHistory\22<|||>1<|||>2016-10-07 14:05:57|cendana|16|select pegawai .*,posisi.nama as posisi from pegawai,posisi where pegawai.id_posisi=posisi.id
+Servers\Unnamed\QueryHistory\21<|||>1<|||>2016-10-07 14:10:24|cendana|15|select pegawai.nama as jumlah, posisi.nama<{{{><}}}>from pegawai, posisi<{{{><}}}>where pegawai.id_posisi = posisi.id<{{{><}}}>and pegawai.id_posisi = 2
+Servers\Unnamed\QueryHistory\23<|||>1<|||>2016-10-07 14:32:27|cendana|0|select pegawai.id,<{{{><}}}>pegawai.nama,<{{{><}}}>pegawai.telp,<{{{><}}}>pegawai.alamat,<{{{><}}}>kelamin.nama,<{{{><}}}>posisi.nama as nama_posisi,<{{{><}}}>pegawai.status<{{{><}}}>from pegawai, posisi, kelamin<{{{><}}}>where pegawai.id_posisi=posisi.id<{{{><}}}>and kelamin.id=pegawai.kelamin 
+Servers\Unnamed\QueryHistory\25<|||>1<|||>2016-10-07 14:37:18|cendana|0|select * from kelamin
+Servers\Unnamed\QueryHistory\26<|||>1<|||>2016-10-07 14:37:35|cendana|0|select * from pegawai
+Servers\Unnamed\QueryHistory\5<|||>1<|||>2016-10-07 14:40:27|cendana|0|select pegawai.id,<{{{><}}}>pegawai.nama,<{{{><}}}>pegawai.telp,<{{{><}}}>pegawai.alamat,<{{{><}}}>kelamin.nama,<{{{><}}}>posisi.nama as tol,<{{{><}}}>pegawai.status<{{{><}}}>from pegawai, posisi, kelamin<{{{><}}}>where pegawai.id_posisi=posisi.id<{{{><}}}>and kelamin.id=pegawai.kelamin
+Servers\Unnamed\QueryHistory\27<|||>1<|||>2016-10-07 14:40:51|cendana|0|select pegawai.id,<{{{><}}}>pegawai.nama,<{{{><}}}>pegawai.telp,<{{{><}}}>pegawai.alamat,<{{{><}}}>kelamin.nama,<{{{><}}}>posisi.nama as nama_posisi,<{{{><}}}>pegawai.status<{{{><}}}>from pegawai, posisi, kelamin<{{{><}}}>where pegawai.id_posisi=posisi.id<{{{><}}}>and kelamin.id=pegawai.kelamin
+Servers\Unnamed\QueryHistory\24<|||>1<|||>2016-10-08 07:55:55|cendana|0|select <{{{><}}}>	pegawai.id,<{{{><}}}>	pegawai.nama,<{{{><}}}>	pegawai.telp,<{{{><}}}>	pegawai.alamat,<{{{><}}}>	kelamin.nama,<{{{><}}}>	posisi.nama as nama_posisi,<{{{><}}}>	pegawai.status<{{{><}}}>	<{{{><}}}>from <{{{><}}}>	pegawai, <{{{><}}}>	posisi, <{{{><}}}>	kelamin<{{{><}}}>	<{{{><}}}>where <{{{><}}}>	pegawai.id_posisi=posisi.id<{{{><}}}>	<{{{><}}}>and<{{{><}}}>	kelamin.id=pegawai.kelamin
+Servers\Unnamed\QueryHistory\28<|||>1<|||>2016-10-08 08:16:23|cendana|62|update pegawai<{{{><}}}>set telp = '085234640114',<{{{><}}}>		kelamin = 'laki-laki'<{{{><}}}>where nama = 'samsul huda';
+Servers\Unnamed\QueryHistory\30<|||>1<|||>2016-10-08 08:16:36|cendana|141|update pegawai<{{{><}}}>set telp = '085234640114',<{{{><}}}>		kelamin = '1'<{{{><}}}>where nama = 'samsul huda';
+Servers\Unnamed\QueryHistory\29<|||>1<|||>2016-10-08 08:17:07|cendana|47|update pegawai<{{{><}}}>set telp = '085234640114',<{{{><}}}>		kelamin = 1<{{{><}}}>where nama = 'samsul huda';
+Servers\Unnamed\QueryHistory\32<|||>1<|||>2016-10-08 08:17:49|cendana|0|update pegawai<{{{><}}}>set telp = '085234640114',<{{{><}}}>		kelamin = 2<{{{><}}}>where nama = 'prettttt';
+Servers\Unnamed\QueryHistory\33<|||>1<|||>2016-10-08 08:18:00|cendana|62|update pegawai<{{{><}}}>set telp = '08500000000',<{{{><}}}>		kelamin = 2<{{{><}}}>where nama = 'samsul huda';
+Servers\Unnamed\QueryHistory\34<|||>1<|||>2016-10-08 08:18:40|cendana|63|update pegawai<{{{><}}}>set telp = '085234640114',<{{{><}}}>		kelamin = 2<{{{><}}}>where nama = 'samsul huda';
+Servers\Unnamed\QueryHistory\31<|||>1<|||>2016-10-08 08:31:51|cendana|47|update pegawai<{{{><}}}>set telp = '085234640114',<{{{><}}}>		kelamin = 2,<{{{><}}}>		status = 2<{{{><}}}>where nama = 'samsul huda';
+Servers\Unnamed\QueryHistory\35<|||>1<|||>2016-10-08 09:36:14|cendana|0|select *<{{{><}}}>from posisi
+Servers\Unnamed\QueryHistory\36<|||>1<|||>2016-10-08 09:46:33|cendana|0|select <{{{><}}}>	posisi.nama as departement,<{{{><}}}>	count(id) as jumlah_pegawai<{{{><}}}>from <{{{><}}}>	posisi, pegawai<{{{><}}}>where <{{{><}}}>	pegawai.id_posisi = posisi.id_posisi<{{{><}}}>group by<{{{><}}}>	posisi.id_posisi
+Servers\Unnamed\QueryHistory\38<|||>1<|||>2016-10-08 09:57:22|cendana|0|select <{{{><}}}>	posisi.nama as departement,<{{{><}}}>	count(id_pegawai) as jumlah_pegawai<{{{><}}}>from <{{{><}}}>	posisi, pegawai<{{{><}}}>where <{{{><}}}>	pegawai.id_posisi = posisi.id_posisi<{{{><}}}>group by<{{{><}}}>	posisi.id_posisi
+Servers\Unnamed\QueryHistory\37<|||>1<|||>2016-10-08 09:59:24|cendana|0|select <{{{><}}}>	pegawai.id_pegawai,<{{{><}}}>	pegawai.nama,<{{{><}}}>	pegawai.telp,<{{{><}}}>	pegawai.kota,<{{{><}}}>	kelamin.nama,<{{{><}}}>	posisi.nama as nama_posisi,<{{{><}}}>	pegawai.status<{{{><}}}>	<{{{><}}}>from <{{{><}}}>	pegawai, <{{{><}}}>	posisi, <{{{><}}}>	kelamin<{{{><}}}>	<{{{><}}}>where <{{{><}}}>	pegawai.id_posisi=posisi.id_posisi<{{{><}}}>	<{{{><}}}>and<{{{><}}}>	kelamin.id=pegawai.kelamin
+Servers\Unnamed\QueryHistory\39<|||>1<|||>2016-10-08 10:19:00|cendana|0|select<{{{><}}}>	posisi.nama as posisi,<{{{><}}}>	tab_kota.nama_kota as kota,<{{{><}}}>	count(pegawai.id_pegawai) as jumlah_pegawai<{{{><}}}>	<{{{><}}}>from<{{{><}}}>	pegawai,<{{{><}}}>	posisi,<{{{><}}}>	tab_kota<{{{><}}}>	<{{{><}}}>where<{{{><}}}>	pegawai.id_posisi = posisi.id_posisi and<{{{><}}}>	pegawai.kota = tab_kota.id_kota and<{{{><}}}>	tab_kota.id_kota = 1 and<{{{><}}}>	posisi.id_posisi = 2
+Servers\Unnamed\QueryHistory\40<|||>1<|||>2016-10-08 10:35:19|cendana|46|insert into<{{{><}}}>	pegawai<{{{><}}}>	<{{{><}}}>values(<{{{><}}}>	'13',<{{{><}}}>	'yuri',<{{{><}}}>	'081231549154',<{{{><}}}>	'2',<{{{><}}}>	1,<{{{><}}}>	'4',<{{{><}}}>	1<{{{><}}}>	);
+Servers\Unnamed\QueryHistory\42<|||>1<|||>2016-10-08 10:36:26|cendana|47|insert into<{{{><}}}>	pegawai<{{{><}}}>	<{{{><}}}>values(<{{{><}}}>	'14',<{{{><}}}>	'yuri',<{{{><}}}>	'081231549154',<{{{><}}}>	'2',<{{{><}}}>	1,<{{{><}}}>	'4',<{{{><}}}>	1<{{{><}}}>	);
+Servers\Unnamed\QueryHistory\41<|||>1<|||>2016-10-08 10:38:58|cendana|63|insert into<{{{><}}}>	pegawai(id_pegawai,nama)<{{{><}}}>values(<{{{><}}}>	'15',<{{{><}}}>	'tony'<{{{><}}}>	);
+Servers\Unnamed\QueryHistory\43<|||>1<|||>2016-10-08 10:46:04|cendana|124|insert into<{{{><}}}>	pegawai(id_pegawai,nama)<{{{><}}}>values(<{{{><}}}>	'',<{{{><}}}>	'tony'<{{{><}}}>	);
+Servers\Unnamed\QueryHistory\45<|||>1<|||>2016-10-08 10:46:22|cendana|63|insert into<{{{><}}}>	pegawai<{{{><}}}>	<{{{><}}}>values(<{{{><}}}>	'',<{{{><}}}>	'yuri',<{{{><}}}>	'081231549154',<{{{><}}}>	'2',<{{{><}}}>	1,<{{{><}}}>	'4',<{{{><}}}>	1<{{{><}}}>	);
+Servers\Unnamed\QueryHistory\46<|||>1<|||>2016-10-08 11:07:39|cendana|0|select now()
+Servers\Unnamed\QueryHistory\44<|||>1<|||>2016-10-08 11:20:12|cendana|62|insert into<{{{><}}}>	pegawai(id_pegawai,nama)<{{{><}}}>values(<{{{><}}}>	md5(concat(now(), rand())),<{{{><}}}>	'wawan'<{{{><}}}>);<{{{><}}}><{{{><}}}>select concat(now(),rand())
+Servers\Unnamed\QueryHistory\47<|||>1<|||>2016-10-08 11:26:18|cendana|47|insert into<{{{><}}}>	pegawai(id_pegawai,nama)<{{{><}}}>values(<{{{><}}}>	md5(concat(now(), rand())),<{{{><}}}>	'wawan'<{{{><}}}>);<{{{><}}}><{{{><}}}>#select concat(now(),rand())
+Servers\Unnamed\QueryHistory\48<|||>1<|||>2016-10-08 11:39:42|cendana|62|update pegawai<{{{><}}}>set nama = 'redika angga'<{{{><}}}>		#kelamin = 2,<{{{><}}}>		#status = 2<{{{><}}}>where id_pegawai = '12';<{{{><}}}>
+Servers\Unnamed\QueryHistory\49<|||>1<|||>2016-10-08 11:40:58|cendana|78|update pegawai<{{{><}}}>set nama = 'redika angga',<{{{><}}}>		id_posisi = '1'<{{{><}}}>		#status = 2<{{{><}}}>where id_pegawai = '12';<{{{><}}}>
+Servers\Unnamed-1\ServerVersionFull<|||>1<|||>5.5.27 - MySQL Community Server (GPL)
+Servers\Unnamed-1\ConnectCount<|||>3<|||>18
+Servers\Unnamed-1\ServerVersion<|||>3<|||>50527
+Servers\Unnamed-1\LastConnect<|||>1<|||>2016-11-13 22:49:21
+Servers\Unnamed-1\lastUsedDB<|||>1<|||>cpc_training
+Servers\Unnamed-1\RefusedCount<|||>3<|||>1
+Servers\Unnamed-1\db_block|artikel\Sort<|||>1<|||>0_tanggal|0_id|
+Servers\Unnamed-1\QueryHistory\42<|||>1<|||>2016-10-14 09:27:33|cendana|0|select <{{{><}}}>		pg.nama as nama_pegawai,<{{{><}}}>		pg.telp,<{{{><}}}>		pg.kota,<{{{><}}}>		kl.nama_kelamin as jenis_kelamin,<{{{><}}}>		po.nama as posisi <{{{><}}}>	from <{{{><}}}>		pegawai pg, kelamin kl, posisi po<{{{><}}}>	where <{{{><}}}>		pg.id_pegawai = '{$id}' and<{{{><}}}>		pg.kelamin = kl.id and<{{{><}}}>		pg.id_posisi = po.id_posisi
+Servers\Unnamed-1\QueryHistory\43<|||>1<|||>2016-10-14 09:28:30|cendana|0|select <{{{><}}}>		pg.nama as nama_pegawai,<{{{><}}}>		pg.telp,<{{{><}}}>		pg.kota,<{{{><}}}>		kl.nama_kelamin as jenis_kelamin,<{{{><}}}>		po.nama as posisi <{{{><}}}>	from <{{{><}}}>		pegawai pg, kelamin kl, posisi po<{{{><}}}>	where <{{{><}}}>	<{{{><}}}>		pg.kelamin = kl.id and<{{{><}}}>		pg.id_posisi = po.id_posisi
+Servers\Unnamed-1\QueryHistory\44<|||>1<|||>2016-10-14 09:30:05|cendana|0|select <{{{><}}}>		pg.nama as nama_pegawai,<{{{><}}}>		pg.telp,<{{{><}}}>		ko.nama_kota,<{{{><}}}>		kl.nama_kelamin as jenis_kelamin,<{{{><}}}>		po.nama as posisi <{{{><}}}>	from <{{{><}}}>		pegawai pg, kelamin kl, posisi po,tab_kota ko<{{{><}}}>	where <{{{><}}}>	<{{{><}}}>		pg.kelamin = kl.id and<{{{><}}}>		ko.nama_kota = pg.kota and<{{{><}}}>		pg.id_posisi = po.id_posisi
+Servers\Unnamed-1\QueryHistory\46<|||>1<|||>2016-10-14 09:31:01|cendana|0|select <{{{><}}}>		pg.nama as nama_pegawai,<{{{><}}}>		pg.telp,<{{{><}}}>		pg.kota,<{{{><}}}>		kl.nama_kelamin as jenis_kelamin,<{{{><}}}>		po.nama as posisi <{{{><}}}>	from <{{{><}}}>		pegawai pg, kelamin kl, posisi po,tab_kota ko<{{{><}}}>	where <{{{><}}}>	<{{{><}}}>		pg.kelamin = kl.id and<{{{><}}}>		pg.kota = ko.nama_kota and<{{{><}}}>		pg.id_posisi = po.id_posisi
+Servers\Unnamed-1\QueryHistory\47<|||>1<|||>2016-10-14 09:31:37|cendana|0|select <{{{><}}}>		pg.nama as nama_pegawai,<{{{><}}}>		pg.telp,<{{{><}}}>		ko.nama_kota,<{{{><}}}>		kl.nama_kelamin as jenis_kelamin,<{{{><}}}>		po.nama as posisi <{{{><}}}>	from <{{{><}}}>		pegawai pg, kelamin kl, posisi po,tab_kota ko<{{{><}}}>	where <{{{><}}}>	<{{{><}}}>		pg.kelamin = kl.id and<{{{><}}}>		pg.kota = ko.nama_kota and<{{{><}}}>		pg.id_posisi = po.id_posisi
+Servers\Unnamed-1\QueryHistory\45<|||>1<|||>2016-11-12 23:32:04|cpc_training|0|SELECT `nilai`.*, `mapel`.`nama_mapel`, `siswa`.`nama_siswa` <{{{><}}}>FROM `nilai` <{{{><}}}>LEFT JOIN `mapel` ON `mapel`.`id_mapel` = `nilai`.`id_mapel` <{{{><}}}>LEFT JOIN `siswa` ON `siswa`.`id_siswa` = `nilai`.`id_siswa`
+Servers\Unnamed-2\SessionCreated<|||>1<|||>2016-10-14 13:10:09
+Servers\Unnamed-2\Host<|||>1<|||>127.0.0.1
+Servers\Unnamed-2\WindowsAuth<|||>3<|||>0
+Servers\Unnamed-2\User<|||>1<|||>root
+Servers\Unnamed-2\Password<|||>1<|||>2
+Servers\Unnamed-2\LoginPrompt<|||>3<|||>0
+Servers\Unnamed-2\Port<|||>1<|||>3306
+Servers\Unnamed-2\NetType<|||>3<|||>0
+Servers\Unnamed-2\Compressed<|||>3<|||>0
+Servers\Unnamed-2\LocalTimeZone<|||>3<|||>0
+Servers\Unnamed-2\QueryTimeout<|||>3<|||>0
+Servers\Unnamed-2\FullTableStatus<|||>3<|||>1
+Servers\Unnamed-2\Databases<|||>1<|||>
+Servers\Unnamed-2\Comment<|||>1<|||>
+Servers\Unnamed-2\StartupScriptFilename<|||>1<|||>
+Servers\Unnamed-2\SSHtunnelHost<|||>1<|||>
+Servers\Unnamed-2\SSHtunnelHostPort<|||>3<|||>0
+Servers\Unnamed-2\SSHtunnelUser<|||>1<|||>
+Servers\Unnamed-2\SSHtunnelPassword<|||>1<|||>1
+Servers\Unnamed-2\SSHtunnelTimeout<|||>3<|||>4
+Servers\Unnamed-2\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Unnamed-2\SSHtunnelPort<|||>3<|||>3307
+Servers\Unnamed-2\SSL_Active<|||>3<|||>0
+Servers\Unnamed-2\SSL_Key<|||>1<|||>
+Servers\Unnamed-2\SSL_Cert<|||>1<|||>
+Servers\Unnamed-2\SSL_CA<|||>1<|||>
+Servers\Unnamed-2\SSL_Cipher<|||>1<|||>
+Servers\Unnamed-2\ServerVersionFull<|||>1<|||>5.5.27 - MySQL Community Server (GPL)
+Servers\Unnamed-2\ConnectCount<|||>3<|||>38
+Servers\Unnamed-2\ServerVersion<|||>3<|||>50527
+Servers\Unnamed-2\LastConnect<|||>1<|||>2016-11-06 19:50:05
+Servers\Unnamed-2\lastUsedDB<|||>1<|||>
+Servers\Unnamed-2\RefusedCount<|||>3<|||>6
+Servers\Unnamed-2\cendana|login\Sort<|||>1<|||>1_username|
+Servers\Unnamed-2\QueryHistory\1<|||>1<|||>2016-10-14 13:34:47|sekolah|16|select <{{{><}}}>	siswa.nama,<{{{><}}}>	siswa.alamat,<{{{><}}}>	siswa.kelamin,<{{{><}}}>	nilai.nilai<{{{><}}}>from <{{{><}}}>	siswa,nilai,matpel<{{{><}}}>where<{{{><}}}>	siswa.id_siswa=nilai.id_siswa <{{{><}}}>and<{{{><}}}>	siswa.id_siswa=nilai.id_nilai<{{{><}}}>and<{{{><}}}>	siswa.id_siswa=nilai.id_matpel
+Servers\Unnamed-2\QueryHistory\2<|||>1<|||>2016-10-14 13:35:57|sekolah|0|select <{{{><}}}>	siswa.nama,<{{{><}}}>	siswa.alamat,<{{{><}}}>	siswa.kelamin,<{{{><}}}>	matpel.nama_pelajaran,<{{{><}}}>	nilai.nilai<{{{><}}}>from <{{{><}}}>	siswa,nilai,matpel<{{{><}}}>where<{{{><}}}>	siswa.id_siswa=nilai.id_siswa <{{{><}}}>and<{{{><}}}>	siswa.id_siswa=nilai.id_nilai<{{{><}}}>and<{{{><}}}>	siswa.id_siswa=nilai.id_matpel
+Servers\Unnamed-2\QueryHistory\3<|||>1<|||>2016-10-14 13:37:27|sekolah|0|select <{{{><}}}>	siswa.nama,<{{{><}}}>	siswa.alamat,<{{{><}}}>	siswa.kelamin,<{{{><}}}>	matpel.nama_pelajaran,<{{{><}}}>	nilai.nilai<{{{><}}}>from <{{{><}}}>	siswa,nilai,matpel<{{{><}}}>where<{{{><}}}>	siswa.id_siswa=nilai.id_siswa <{{{><}}}>and<{{{><}}}>	siswa.id_siswa=nilai.id_nilai
+Servers\Unnamed-2\QueryHistory\5<|||>1<|||>2016-10-14 13:38:02|sekolah|0|select <{{{><}}}>	siswa.nama,<{{{><}}}>	siswa.alamat,<{{{><}}}>	siswa.kelamin,<{{{><}}}>	nilai.nilai,<{{{><}}}>	matpel.nama_pelajaran<{{{><}}}>from <{{{><}}}>	siswa,nilai,matpel<{{{><}}}>where<{{{><}}}>	siswa.id_siswa=nilai.id_siswa <{{{><}}}>and<{{{><}}}>	siswa.id_siswa=nilai.id_nilai
+Servers\Unnamed-2\QueryHistory\4<|||>1<|||>2016-10-14 13:40:20|sekolah|0|select <{{{><}}}>	siswa.nama,<{{{><}}}>	siswa.alamat,<{{{><}}}>	siswa.kelamin,<{{{><}}}>	nilai.nilai,<{{{><}}}>	matpel.nama_pelajaran<{{{><}}}>from <{{{><}}}>	siswa,nilai,matpel<{{{><}}}>where<{{{><}}}>	siswa.id_siswa=nilai.id_siswa <{{{><}}}>and<{{{><}}}>	siswa.id_siswa=nilai.id_nilai<{{{><}}}>and<{{{><}}}>	siswa.mapel=matpel.id_matpel
+Servers\Unnamed-2\QueryHistory\6<|||>1<|||>2016-10-14 13:41:06|sekolah|0|select <{{{><}}}>	siswa.nama,<{{{><}}}>	siswa.alamat,<{{{><}}}>	siswa.kelamin,<{{{><}}}>	nilai.nilai,<{{{><}}}>	matpel.nama_pelajaran<{{{><}}}>from <{{{><}}}>	siswa,nilai,matpel<{{{><}}}>where<{{{><}}}>	siswa.id_siswa=nilai.id_siswa 
+Servers\Unnamed-2\QueryHistory\7<|||>1<|||>2016-10-14 13:41:32|sekolah|0|select <{{{><}}}>	siswa.nama,<{{{><}}}>	siswa.alamat,<{{{><}}}>	siswa.kelamin,<{{{><}}}>	nilai.nilai,<{{{><}}}>	matpel.nama_pelajaran<{{{><}}}>from <{{{><}}}>	siswa,nilai,matpel<{{{><}}}>where<{{{><}}}>	siswa.nilai=nilai.id_nilai 
+Servers\Unnamed-2\QueryHistory\8<|||>1<|||>2016-10-14 13:42:17|sekolah|0|select <{{{><}}}>	siswa.nama,<{{{><}}}>	siswa.alamat,<{{{><}}}>	siswa.kelamin,<{{{><}}}>	nilai.nilai,<{{{><}}}>	matpel.nama_pelajaran<{{{><}}}>from <{{{><}}}>	siswa,nilai,matpel<{{{><}}}>where<{{{><}}}>	siswa.nilai=nilai.id_nilai<{{{><}}}>	and<{{{><}}}>		siswa.mapel=matpel.id_matpel 
+Servers\Unnamed-2\QueryHistory\10<|||>1<|||>2016-10-14 13:48:39|sekolah|0|select <{{{><}}}>	siswa.nama,<{{{><}}}>	siswa.alamat,<{{{><}}}>	siswa.kelamin,<{{{><}}}>	nilai.nilai,<{{{><}}}>	matpel.nama_pelajaran<{{{><}}}>from <{{{><}}}>	siswa,nilai,matpel<{{{><}}}>where<{{{><}}}>	siswa.id_siswa=nilai.id_siswa<{{{><}}}>	and <{{{><}}}>		matpel.id_matpel=nilai.id_matpel<{{{><}}}>		<{{{><}}}>			
+Servers\Unnamed-2\QueryHistory\9<|||>1<|||>2016-10-14 23:32:10|sekolah|0|select <{{{><}}}>	siswa.id_siswa, <{{{><}}}>	siswa.nama, <{{{><}}}>	siswa.alamat, <{{{><}}}>	siswa.kelamin, <{{{><}}}>	nilai.nilai, <{{{><}}}>	matpel.nama_pelajaran <{{{><}}}>from <{{{><}}}>	siswa,<{{{><}}}>	nilai,<{{{><}}}>	matpel <{{{><}}}>where <{{{><}}}>	siswa.id_siswa=nilai.id_siswa <{{{><}}}>		and matpel.id_matpel=nilai.id_matpel <{{{><}}}>			and (siswa.nama like '%wawan%' <{{{><}}}>				or nilai.nilai like '%wawan%') <{{{><}}}>					and (siswa.nama like '%wawan%' <{{{><}}}>						or nilai.nilai like '%wawan%')
+Servers\Unnamed-2\QueryHistory\11<|||>1<|||>2016-10-17 14:38:26|cendana|0|select <{{{><}}}>					pg.nama as nama_pegawai,<{{{><}}}>					pg.telp,<{{{><}}}>					pg.kota,<{{{><}}}>					kl.nama_kelamin as jenis_kelamin,<{{{><}}}>					po.nama as posisi <{{{><}}}>					<{{{><}}}>				from <{{{><}}}>					pegawai pg, kelamin kl, posisi po<{{{><}}}>				where <{{{><}}}>				#	pg.id_pegawai = '{$id}' and<{{{><}}}>					pg.kelamin = kl.id and<{{{><}}}>					pg.id_posisi = po.id_posisi
+Servers\Unnamed-2\QueryHistory\13<|||>1<|||>2016-10-17 14:38:37|cendana|0|select <{{{><}}}>					pg.nama as nama_pegawai,<{{{><}}}>					pg.telp,<{{{><}}}>					pg.kota,<{{{><}}}>					kl.nama_kelamin as jenis_kelamin,<{{{><}}}>					po.nama as posisi <{{{><}}}>					<{{{><}}}>				from <{{{><}}}>					pegawai pg, kelamin kl, posisi po<{{{><}}}>				where <{{{><}}}>				pg.id_pegawai = '{$id}' and<{{{><}}}>					pg.kelamin = kl.id and<{{{><}}}>					pg.id_posisi = po.id_posisi
+Servers\Unnamed-2\QueryHistory\12<|||>1<|||>2016-10-17 14:38:45|cendana|0|select <{{{><}}}>					pg.nama as nama_pegawai,<{{{><}}}>					pg.telp,<{{{><}}}>					pg.kota,<{{{><}}}>					kl.nama_kelamin as jenis_kelamin,<{{{><}}}>					po.nama as posisi <{{{><}}}>					<{{{><}}}>				from <{{{><}}}>					pegawai pg, kelamin kl, posisi po<{{{><}}}>				where <{{{><}}}>				#pg.id_pegawai = '{$id}' and<{{{><}}}>					pg.kelamin = kl.id and<{{{><}}}>					pg.id_posisi = po.id_posisi
+Servers\Unnamed-2\QueryHistory\14<|||>1<|||>2016-10-17 14:48:47|cendana|0|select <{{{><}}}>					pg.nama as nama_pegawai,<{{{><}}}>					pg.telp,<{{{><}}}>					pg.kota,<{{{><}}}>					kl.nama_kelamin as jenis_kelamin,<{{{><}}}>					po.nama as posisi,<{{{><}}}>					po.id_posisi as posisi_id,<{{{><}}}>					kt.id_kota as kota_id<{{{><}}}>				from <{{{><}}}>					pegawai pg, kelamin kl, posisi po,tab_kota kt<{{{><}}}>				where <{{{><}}}>					#pg.id_pegawai = '{$id}' and<{{{><}}}>					pg.kelamin = kl.id and<{{{><}}}>					pg.id_posisi = po.id_posisi and <{{{><}}}>					pg.kota = kt.id_kota
+Servers\Unnamed-2\QueryHistory\16<|||>1<|||>2016-10-17 15:32:14|cendana|0|select <{{{><}}}>					pg.nama as nama_pegawai,<{{{><}}}>					pg.telp,<{{{><}}}>					pg.kota,<{{{><}}}>					kl.nama_kelamin as jenis_kelamin,<{{{><}}}>					po.nama as posisi,<{{{><}}}>					po.id_posisi as posisi_id,<{{{><}}}>					kt.id_kota as kota_id<{{{><}}}>				from <{{{><}}}>					pegawai pg, kelamin kl, posisi po,tab_kota kt<{{{><}}}>				where <{{{><}}}>					#pg.id_pegawai = '{$id}' and<{{{><}}}>					pg.kelamin = kl.id and<{{{><}}}>					pg.id_posisi = po.id_posisi and <{{{><}}}>					pg.kota = kt.id_kota and<{{{><}}}>					pg.kelamin=kl.id
+Servers\Unnamed-2\QueryHistory\15<|||>1<|||>2016-10-17 15:32:52|cendana|0|select <{{{><}}}>					pg.nama as nama_pegawai,<{{{><}}}>					pg.telp,<{{{><}}}>					pg.kota,<{{{><}}}>					kl.nama_kelamin as jenis_kelamin,<{{{><}}}>					po.nama as posisi,<{{{><}}}>					po.id_posisi as posisi_id,<{{{><}}}>					kt.id_kota as kota_id,<{{{><}}}>					kl.id as kel<{{{><}}}>				from <{{{><}}}>					pegawai pg, kelamin kl, posisi po,tab_kota kt<{{{><}}}>				where <{{{><}}}>					#pg.id_pegawai = '{$id}' and<{{{><}}}>					pg.kelamin = kl.id and<{{{><}}}>					pg.id_posisi = po.id_posisi and <{{{><}}}>					pg.kota = kt.id_kota and<{{{><}}}>					pg.kelamin=kl.id
+Servers\Unnamed-2\QueryHistory\17<|||>1<|||>2016-10-23 22:17:44|sekolah1|0|select * from nilai where id_nilai = 1
+Servers\Unnamed-2\QueryHistory\19<|||>1<|||>2016-10-24 15:32:24|cendana|78|update login set password = md5('123') <{{{><}}}>where username = 'admin';
