@@ -188,7 +188,7 @@
 									Menghapus
 								</strong>
 								<i class="ace-icon glyphicon glyphicon-trash red"></i>
-								<strong class="blue">DATA</strong>
+								<strong class="blue">DATA INI</strong>
 								<strong class="red">..............</strong>
 								<strong class="green"><?php echo " ??"; ?></strong>
 								<br><br>
